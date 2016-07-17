@@ -13,5 +13,7 @@ This project enable user to :-
 -  Unlock Device by shaking it. 
 -  Shake detection work in Background Service and work even if App is exit.
 -  User can calibrate Sensity of Shake default is 13
+-  
+
 
 
